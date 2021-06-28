@@ -1,5 +1,5 @@
 # Course Repo
 - **Title:** The Modern JavaScript Bootcamp
-- **Taught by:** Andrew Mead
+- **Instructor:** Andrew Mead
 - **Platform:** Udemy
 - **Note(s):**
